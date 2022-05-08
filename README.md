@@ -6,8 +6,8 @@ Module commands(Hard coded commands) and Custom commands(Commands from a datebas
 * Module commands - !dice, !coinflip 
 ##  Installation
 ```bash
-git clone https://github.com/budthepit/bud_the_bot.git
-cd bud_the_bot
+git clone https://github.com/brunocodes/twitch-chat-bot.git
+cd twitch-chat-bot
 npm install
 ```
 ## Add .env file and add OAuth and channal names database link
