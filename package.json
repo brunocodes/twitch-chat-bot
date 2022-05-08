@@ -1,0 +1,19 @@
+{
+  "name": "bud_the_bot",
+  "version": "0.0.3",
+  "description": "BudThePit Twitch chat bot made with tmijs.",
+  "main": "./server/server.js",
+  "scripts": {
+    "start": "node ./server/server.js",
+    "bot": "node ./twitchbot/twitchBot.js"
+  },
+  "author": "BudThePit",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15",
+    "node-fetch": "^2.6.1",
+    "tmi.js": "^1.4.5"
+  }
+}
